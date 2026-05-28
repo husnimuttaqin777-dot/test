@@ -37,3 +37,7 @@ git push -u origin *nama branch nya* = upload
 
 
  ***balik ke versi sebelumnya***
+
+ git log --oneline = cek list perubahan
+
+ git checkout "kode versi" -- file1.txt (nama file)
