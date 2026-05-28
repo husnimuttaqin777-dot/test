@@ -1,4 +1,4 @@
-instruksi git
+instruksi git dasar
 
 git status = untuk cek apakah ada perubahan
 git add . = untuk masukkin perubahan ke staging
@@ -17,7 +17,7 @@ bikin file namanya .gitignore
 tulis nama filenya
 
 
-upload ke github
+***upload ke github***
 
 masuk ke folder
 
@@ -32,4 +32,8 @@ git remote -v = cek koneksi
 git branch -M *nama branch nya* = pilih branch nya
 
  
- git push -u origin *nama branch nya* = upload
+git push -u origin *nama branch nya* = upload
+
+
+
+ ***balik ke versi sebelumnya***
