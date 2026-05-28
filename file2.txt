@@ -1,5 +1,6 @@
 instruksi git dasar
 
+git init = untuk inisialisasi dari awal 
 git status = untuk cek apakah ada perubahan
 git add . = untuk masukkin perubahan ke staging
 git commit -m "comment" = untuk masukkin perubahan ke git final
