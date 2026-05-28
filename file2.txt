@@ -8,7 +8,7 @@ git push . = untuk fix kan perubahan
 
 git branch = untuk cek branch
 git checkout *nama branch* = untuk pindah branch
-
+git branch -d *nama branch*
 
 
 tidak mengincludekan file
