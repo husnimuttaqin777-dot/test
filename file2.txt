@@ -43,4 +43,10 @@ git push -u origin *nama branch nya* = upload
  git checkout "kode versi" -- file1.txt (nama file)
 
 
+
+***update branch di github dari local***
+git branch
+git push -u origin *nama branch*
+
+
  *INI CUMA ADA DI MAIN*
