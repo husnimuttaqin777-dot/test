@@ -1,1 +1,17 @@
-menambah file 2
+instruksi git
+
+git status = untuk cek apakah ada perubahan
+git add . = untuk masukkin perubahan ke staging
+git commit -m "comment" = untuk masukkin perubahan ke git final
+git push . = untuk fix kan perubahan
+
+
+git branch = untuk cek branch
+git checkout *nama branch* = untuk pindah branch
+
+
+
+tidak mengincludekan file
+
+bikin file namanya .gitignore
+tulis nama filenya
