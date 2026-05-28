@@ -41,3 +41,6 @@ git push -u origin *nama branch nya* = upload
  git log --oneline = cek list perubahan
 
  git checkout "kode versi" -- file1.txt (nama file)
+
+
+ *INI CUMA ADA DI MAIN*
