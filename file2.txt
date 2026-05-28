@@ -15,3 +15,21 @@ tidak mengincludekan file
 
 bikin file namanya .gitignore
 tulis nama filenya
+
+
+upload ke github
+
+masuk ke folder
+
+git add .
+
+git commit -m "comment"
+
+git remote add origin *link github* = masukkin link repo github
+
+git remote -v = cek koneksi
+
+git branch -M *nama branch nya* = pilih branch nya
+
+ 
+ git push -u origin *nama branch nya* = upload
